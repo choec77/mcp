@@ -171,14 +171,5 @@ Claude Desktop을 재시작한 후, 다음과 같이 자연어로 명령할 수 
 - [ ] 인프라 자동 구축 템플릿
 - [ ] 에러 핸들링 개선
 
-## 📄 라이센스
 
-MIT License
-
-## 👤 작성자
-
-**이휘경 (eccho)**
-
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your.email@example.com
 
